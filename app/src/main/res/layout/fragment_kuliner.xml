@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".KulinerFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Program Keahlian Tata Boga menyiapkan tenaga ahli menengah yang terampil dalam melayani makanan dan minuman di Restoran maupun Hotel, membuat produk makanan dan minuman, dan produk pastry and bakery, serta menghasilkan tamatan yang siap kerja mandiri di bidang Tata Boga."
+        android:textColor="@color/white"
+        android:textSize="25sp"/>
+
+
+</FrameLayout>
